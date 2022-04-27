@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - RabbitMQ, Kafka, Sidekiq
 - GraphQL, RestAPI
 - Docker, Kubernetes
-- Jira
 
 ---
 *Write me to: [vpk94@outlook.com](mailto:vpk94@outlook.com)*
