@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 - Docker, Kubernetes
 
 ---
-*Write me to: [vpk94@outlook.com](mailto:vpk94@outlook.com)*
+*Write to me: [vpk94@outlook.com](mailto:vpk94@outlook.com)*
 
 *Reach me on LinkedIn: [Vishnuprasad K](https://linkedin.com/in/vpk11)*
