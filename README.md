@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vpk11/vpk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,14 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Vishnuprasad K</h1>
-<h3 align="center">Just another Software Engineer</h3>
-<p align="left"> <a href="https://twitter.com/vpk11" target="blank"><img src="https://img.shields.io/twitter/follow/vpk11?logo=twitter&style=for-the-badge" alt="vpk11" /></a> </p>
+# Hi there 👋, I'm Vishnuprasad
 
-- 📫 How to reach me **vpk94@outlook.com**
+### Quick Intro:
+- Software Engineer from India, currently in Germany, contributing to backend for building web applications.
+- Loves to code in Ruby.
+- Spends free time watching Football or Cricket match.
+- Writing code since 2013. Started professional career in 2017.
+- [Foradian](https://foradian.com)(2017-19) and [Synup](https://synup.com)(2019-21), currently working for [Clark](https://clark.de)
 
-<p align="left">
-<a href="https://twitter.com/vpk11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vpk11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vpk11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vpk11" height="30" width="40" /></a>
-<a href="https://instagram.com/me.vpk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me.vpk" height="30" width="40" /></a>
-</p>
+### Tech Stack:
+- Ruby, Python, JS, Java, Kotlin
+- Ruby on Rails, Flask
+- Postgres, MySQL, Amazon Redshift
+- Redis, ElasticSearch
+- RabbitMQ, Kafka, Sidekiq
+- GraphQL, RestAPI
+- Docker, Kubernetes
+- Jira
+
+---
+*Write me to: [vpk94@outlook.com](mailto:vpk94@outlook.com)*
+
+*Reach me on LinkedIn: [Vishnuprasad K](https://linkedin.com/in/vpk11)*
