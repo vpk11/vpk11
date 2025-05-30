@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - Postgres, MySQL, Amazon Redshift
 - Redis, ElasticSearch
 - Kafka, Sidekiq
-- GraphQL, RestAPI
+- GraphQL, Rest API
 - Docker, Kubernetes
-- Terraform
+- Jenkins, Terraform
 
 ---
 *Write to me: [vishnuprasad.kamalon@gmail.com](mailto:vishnuprasad.kamalon@gmail.com)*
