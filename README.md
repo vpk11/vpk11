@@ -17,19 +17,20 @@ Here are some ideas to get you started:
 
 ### Quick Intro:
 - Software Engineer from India, currently in Germany, contributing to backend for building web applications.
-- Loves to code in Ruby.
+- Loves to code in Ruby an Python.
 - Spends free time watching Football or Cricket match.
 - Writing code since 2013. Started professional career in 2017.
 - [Foradian](https://foradian.com)(2017-19) and [Synup](https://synup.com)(2019-21), currently working for [Clark](https://clark.de)
 
 ### Tech Stack:
 - Ruby, Python, JS, Java, Kotlin
-- Ruby on Rails, Flask
+- Ruby on Rails, Fast API, Flask
 - Postgres, MySQL, Amazon Redshift
 - Redis, ElasticSearch
-- RabbitMQ, Kafka, Sidekiq
+- Kafka, Sidekiq
 - GraphQL, RestAPI
 - Docker, Kubernetes
+- Terraform
 
 ---
 *Write to me: [vishnuprasad.kamalon@gmail.com](mailto:vishnuprasad.kamalon@gmail.com)*
