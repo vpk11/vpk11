@@ -13,17 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋, I'm Vishnuprasad
+# 👋 Hey there! I'm Vishnuprasad 🚀
 
-### Quick Intro:
-- Software Engineer from India, currently in Germany, contributing to backend for building web applications.
-- Loves to code in Ruby an Python.
-- Spends free time watching Football or Cricket match.
-- Writing code since 2013. Started professional career in 2017.
-- [Foradian](https://foradian.com)(2017-19) and [Synup](https://synup.com)(2019-21), currently working for [Clark](https://clark.de)
+Welcome to my GitHub profile! I’m a passionate developer who loves crafting clean, efficient, and scalable solutions. Whether it's automating workflows, building innovative projects, or diving deep into open-source contributions, I'm always up for a challenge.
+
+Feel free to explore my repositories, collaborate, or just say hi! Let's build something awesome together. 🚀
 
 ### Tech Stack:
-- Ruby, Python, JS, Java, Kotlin
+- Ruby, Python, Javascript
 - Ruby on Rails, Fast API, Flask
 - Postgres, MySQL, Amazon Redshift
 - Redis, ElasticSearch
@@ -31,6 +28,12 @@ Here are some ideas to get you started:
 - GraphQL, Rest API
 - Docker, Kubernetes
 - Jenkins, Terraform
+
+### Interests:
+- Backend Development, Artificial Intelligence, DevOps, Open Source
+
+- Writing code since 2013. Started professional career in 2017.
+- [Foradian](https://foradian.com)(2017-19) and [Synup](https://synup.com)(2019-21), currently working for [Clark](https://clark.de)
 
 ---
 *Write to me: [vishnuprasad.kamalon@gmail.com](mailto:vishnuprasad.kamalon@gmail.com)*
