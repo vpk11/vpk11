@@ -32,10 +32,13 @@ Feel free to explore my repositories, collaborate, or just say hi! Let's build s
 ### Interests:
 - Backend Development, Artificial Intelligence, DevOps, Open Source
 
+---
+
 - Writing code since 2013. Started professional career in 2017.
 - [Foradian](https://foradian.com)(2017-19) and [Synup](https://synup.com)(2019-21), currently working for [Clark](https://clark.de)
 
 ---
+
 *Write to me: [vishnuprasad.kamalon@gmail.com](mailto:vishnuprasad.kamalon@gmail.com)*
 
 *Reach me on LinkedIn: [Vishnuprasad K](https://linkedin.com/in/vpk11)*
