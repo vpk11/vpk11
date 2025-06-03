@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hey there! I'm Vishnuprasad 🚀
+# 👋 Hey there! I'm [Vishnuprasad](https://vpk11.github.io/) 🚀
 
 Welcome to my GitHub profile! I’m a passionate developer who loves crafting clean, efficient, and scalable solutions. Whether it's automating workflows, building innovative projects, or diving deep into open-source contributions, I'm always up for a challenge.
 
@@ -36,7 +36,7 @@ Feel free to explore my repositories, collaborate, or just say hi! Let's build s
 
 - Writing code since 2013. Started professional career in 2017.
 - [Foradian](https://foradian.com)(2017-19) and [Synup](https://synup.com)(2019-21), currently working for [Clark](https://clark.de)
-
+- [Click here](https://vpk11.github.io/assets/vpk_resume.pdf) to view my resume
 ---
 
 *Write to me: [vishnuprasad.kamalon@gmail.com](mailto:vishnuprasad.kamalon@gmail.com)*
