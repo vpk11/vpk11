@@ -36,6 +36,7 @@ Here's a snapshot of the technologies I work with.
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
   <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"></a>
   <a href="#"><img alt="Rest API" src="https://img.shields.io/badge/REST_API-000000?logo=dependabot&logoColor=white"></a>
+  <a href="#"><img alt="Langchain" src="https://img.shields.io/badge/Langchain-008639?&logo=langchain&logoColor=white"></a>
 </p>
 
 <summary><b>Databases & Data Stores</b></summary>
@@ -61,6 +62,7 @@ Here's a snapshot of the technologies I work with.
   <a href="#"><img alt="Sidekiq" src="https://img.shields.io/badge/Sidekiq-A40E01?logo=sidekiq&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"></a>
+  <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-232F3E?&logo=ollama&logoColor=white"></a>
 </p>
 
 ---
