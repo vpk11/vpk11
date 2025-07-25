@@ -84,6 +84,7 @@ Here are some of the personal projects I'm proud of. Feel free to explore the co
 | 🤖 **LoweCLI** | A GenAI-powered CLI tool to assist developers with debugging, command suggestions, and doc lookups. | `Python`, `FastAPI`, `Gemini AI`, `RAG` | [🔗 Repo](https://github.com/vpk11/lowe-cli) |
 | 📄 **ATScribe** | A GenAI-powered command-line tool for generating ATS-compatible resumes. | `Python`, `Gemini AI`, `Ollama` | [🔗 Repo](https://github.com/vpk11/atscribe) |
 | 📰 **HackerFeed** | A sleek Android app that delivers the top stories from Hacker News right to your fingertips. | `Kotlin`, `Jetpack Compose` | [🔗 Repo](https://github.com/vpk11/HackerFeed) |
+| 📰 **SprachNinja** | Your personal AI-powered German language learning companion. | `Kotlin`, `Jetpack Compose` | [🔗 Repo](https://github.com/vpk11/SprachNinja) |
 | 💉 **PyVaccine Tracker** | A Python app to check COVID vaccine availability and send alerts to a Telegram group. | `Python`, `Telegram Bot API` | [🔗 Repo](https://github.com/vpk11/PyVaccineTracker) |
 
 ---
