@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm [Vishnuprasad Kamalon](https://vpk11.github.io/) 🚀
 
 <p align="center">
-  <a href="https://vpk11.github.io/"><img src="https://img.shields.io/badge/Portfolio-vpk11.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"></a> &nbsp;
+  <a href="https://vpk11.com/"><img src="https://img.shields.io/badge/Portfolio-vpk11.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"></a> &nbsp;
   <a href="https://linkedin.com/in/vpk11"><img src="https://img.shields.io/badge/LinkedIn-Vishnuprasad_Kamalon-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a> &nbsp;
   <a href="https://www.xing.com/profile/Vishnuprasad_Kamalon"><img src="https://img.shields.io/badge/Xing-Vishnuprasad_Kamalon-026466?style=for-the-badge&logo=xing&logoColor=white" alt="Xing Badge"></a>
 </p>
