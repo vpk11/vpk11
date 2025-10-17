@@ -9,7 +9,7 @@
 I'm a passionate **Software Engineer** with 8 years of experience, currently based in Frankfurt. My goal is to transform ideas into high-impact, scalable software solutions. I excel at **engineering robust applications and mastering the right tools for the job**, with deep experience in backend architecture, DevOps, and integrating AI-powered capabilities to create tangible business value.
 
 
-- 🔭 I’m currently a **Senior Software Engineer** at **[Clark](https://clark.de)**, building innovative FinTech/InsureTech solutions.
+- 🔭 I’m currently a **Full Stack Engineer** at **[NaroIQ](https://www.naroiq.com/)**, building innovative FinTech solutions.
 - 💻 My core expertise lies in **Ruby (on Rails)**, **Python**, and building robust, scalable systems.
 - 🧠 I'm fascinated by the potential of **Generative AI** and enjoy creating tools that leverage its power.
 - 🔧 I'm proficient in cloud-native technologies like **Docker** and **Kubernetes** and a strong advocate for **CI/CD** and Agile best practices (TDD/BDD).
@@ -69,7 +69,8 @@ Here's a snapshot of the technologies I work with.
 
 ### 💼 Professional Journey
 
-- **Senior Software Engineer** @ **[Clark](https://clark.de)** (2021-Present)
+- **Full Stack Engineer** @ **[NaroIQ](https://www.naroiq.com/)** (2025-Present)
+- **Senior Software Engineer** @ **[Clark](https://clark.de)** (2021-2025)
 - **Software Engineer** @ **[Synup](https://synup.com)** (2019-2021)
 - **Software Engineer** @ **[Foradian](https://foradian.com)** (2017-2019)
 
