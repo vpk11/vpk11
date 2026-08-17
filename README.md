@@ -6,10 +6,10 @@
   <a href="https://www.xing.com/profile/Vishnuprasad_Kamalon"><img src="https://img.shields.io/badge/Xing-Vishnuprasad_Kamalon-026466?style=for-the-badge&logo=xing&logoColor=white" alt="Xing Badge"></a>
 </p>
 
-I'm a passionate **Software Engineer** with 8 years of experience, currently based in Frankfurt. My goal is to transform ideas into high-impact, scalable software solutions. I excel at **engineering robust applications and mastering the right tools for the job**, with deep experience in backend architecture, DevOps, and integrating AI-powered capabilities to create tangible business value.
+I'm a passionate **Software Engineer** with 9 years of experience, currently based in Frankfurt. My goal is to transform ideas into high-impact, scalable software solutions. I excel at **engineering robust applications and mastering the right tools for the job**, with deep experience in backend architecture, DevOps, and integrating AI-powered capabilities to create tangible business value.
 
 
-- 🔭 I’m currently a **Full Stack Engineer** at **[NaroIQ](https://www.naroiq.com/)**, building innovative FinTech solutions.
+- 🔭 I’m currently a **Software Engineer** at **[NaroIQ](https://www.naroiq.com/)**, building innovative FinTech solutions.
 - 💻 My core expertise lies in **Ruby (on Rails)**, **Python**, and building robust, scalable systems.
 - 🧠 I'm fascinated by the potential of **Generative AI** and enjoy creating tools that leverage its power.
 - 🔧 I'm proficient in cloud-native technologies like **Docker** and **Kubernetes** and a strong advocate for **CI/CD** and Agile best practices (TDD/BDD).
@@ -62,14 +62,13 @@ Here's a snapshot of the technologies I work with.
   <a href="#"><img alt="Sidekiq" src="https://img.shields.io/badge/Sidekiq-A40E01?logo=sidekiq&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"></a>
-  <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-232F3E?&logo=ollama&logoColor=white"></a>
 </p>
 
 ---
 
 ### 💼 Professional Journey
 
-- **Full Stack Engineer** @ **[NaroIQ](https://www.naroiq.com/)** (2025-Present)
+- **Senior Software Engineer** @ **[NaroIQ](https://www.naroiq.com/)** (2025-Present)
 - **Senior Software Engineer** @ **[Clark](https://clark.de)** (2021-2025)
 - **Software Engineer** @ **[Synup](https://synup.com)** (2019-2021)
 - **Software Engineer** @ **[Foradian](https://foradian.com)** (2017-2019)
@@ -82,8 +81,6 @@ Here are some of the personal projects I'm proud of. Feel free to explore the co
 
 | Project Name | Description | Technologies Used | Repository |
 | :--- | :--- | :--- | :---: |
-| 🤖 **LoweCLI** | A GenAI-powered CLI tool to assist developers with debugging, command suggestions, and doc lookups. | `Python`, `FastAPI`, `Gemini AI`, `RAG` | [🔗 Repo](https://github.com/vpk11/lowe-cli) |
-| 📄 **ATScribe** | A GenAI-powered command-line tool for generating ATS-compatible resumes. | `Python`, `Gemini AI`, `Ollama` | [🔗 Repo](https://github.com/vpk11/atscribe) |
 | 📰 **HackerFeed** | A sleek Android app that delivers the top stories from Hacker News right to your fingertips. | `Kotlin`, `Jetpack Compose` | [🔗 Repo](https://github.com/vpk11/HackerFeed) |
 | 📰 **SprachNinja** | Your personal AI-powered German language learning companion. | `Kotlin`, `Jetpack Compose` | [🔗 Repo](https://github.com/vpk11/SprachNinja) |
 | 💉 **PyVaccine Tracker** | A Python app to check COVID vaccine availability and send alerts to a Telegram group. | `Python`, `Telegram Bot API` | [🔗 Repo](https://github.com/vpk11/PyVaccineTracker) |
